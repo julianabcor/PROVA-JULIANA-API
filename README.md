@@ -13,16 +13,16 @@ Após isso, clone esse repositório:
 - "git clone https://github.com/julianabcor/PROVA-JULIANA-API.git"
 
 ## Bibliotecas utilizadas
-Instale as bibliotecas "requests" e "streamlit"
+Instale as bibliotecas
 - "pip install requests"
 - "pip install streamlit"
-- "pip install -r requirements.txt
+- "pip install -r requirements.txt"
 
 ## Como ver a o consumo da API funcionando:
 Primeiro rode o "consumidor_api.py"
 
 ## Como ver o streamlit funcionando:
-Rode o código "
+Rode o código "python -m streamlit run frontend.py"
 
 ## Organização dos arquivos
 ├── .venv/
